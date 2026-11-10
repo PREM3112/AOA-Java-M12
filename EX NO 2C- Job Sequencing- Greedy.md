@@ -88,6 +88,6 @@ public class JobScheduling {
 
 <img width="821" height="551" alt="image" src="https://github.com/user-attachments/assets/e59960d0-7182-4f2a-bead-6f588a1329ba" />
 
-
+  
 ## Result:
 The program successfully implemented and the expected output is verified.
