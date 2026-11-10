@@ -1,4 +1,5 @@
 # EX 2D Pattern Matching using Naive Approach.
+## DATE: 10.11.2026
 
 ## AIM:
 To write a Java program to for given constraints.
@@ -21,8 +22,8 @@ Given text string with length n and a pattern with length m, the task is to prin
 ## Program:
 ```
 /*
-Developed by: HEMANATH K
-Register Number:  212223100012
+Developed by: PREM R
+Register Number:  212223240124
 */
 import java.util.Scanner;
 
